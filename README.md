@@ -14,4 +14,13 @@ This project aims to create an automation test suite in a WordPress environment 
 ## Setup
 - Download local (including WordPress)
 - Log In to the WordPress Account using UserName & Password
+- Clone the repository
+
+## Install Dependencies
+- NodeJs
+- Local
+- WordPress
+
+## Run Tests Locally
+- npx playwright test
 
